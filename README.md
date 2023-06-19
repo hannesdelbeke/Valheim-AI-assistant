@@ -4,3 +4,7 @@
 Ask AI (Google Bard) questions what to make next in Valheim, by parsing your save data to Bard
 
 Currently just raw code, no UI
+
+### dependencies
+- https://github.com/hannesdelbeke/valheim-character-editor-python
+- [bardapi](https://github.com/dsdanielpark/Bard-API)
