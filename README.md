@@ -3,6 +3,11 @@
 # Valheim-AI-assistant
 Ask AI (Google Bard) questions what to make next in Valheim, by parsing your save data to Bard
 
+## Instructions
+- point at your `.fch` save file
+- ask a question
+- add your bard token in the `.ini` file
+
 Currently just raw code, no UI
 
 ### dependencies
