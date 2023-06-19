@@ -4,7 +4,7 @@
 Ask AI (Google Bard) questions what to make next in Valheim, by parsing your save data to Bard
 
 ## Instructions
-This assumes you have a working python environment.
+This assumes you have a working python environment with dependencies installed from `requirements.txt`
 - point at your `.fch` save file
 - ask a question
 - add your bard token in the `.ini` file
