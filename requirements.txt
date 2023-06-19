@@ -1,0 +1,2 @@
+bardapi
+git+https://github.com/hannesdelbeke/valheim-character-editor-python
