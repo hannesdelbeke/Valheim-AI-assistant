@@ -37,4 +37,23 @@ Process finished with exit code 0
 ```
 ⚠️ stone axe isn't better than flint, so you can't trust it to be always correct 
 
+### save file location
+[source](http://valheim.kirilloid.ru/player-edit)  
 
+|steam | |
+|--|--|
+|Local Save|%userprofile%\AppData\LocalLow\IronGate\Valheim\characters_local|
+|Cloud Save|%ProgramFiles(x86)%\Steam\userdata\<steam-id>\892970\remote\characters|
+|Legacy Save|%userprofile%\AppData\LocalLow\IronGate\Valheim\characters|
+
+|game pass | |
+|--|--|
+|Local Save|%userprofile%\AppData\LocalLow\IronGate\Valheim\characters_local|
+|Cloud Save|%userprofile%\AppData\Local\Packages\CoffeeStainStudios.Valheim_496a1srhmar9w\SystemAppData\wgs|
+|Legacy Save|%userprofile%\AppData\LocalLow\IronGate\Valheim\characters|
+
+|linux | |
+|--|--|
+|Local Save|/home/steam/.config/unity3d/IronGate/Valheim/characters_local|
+|Cloud Save|~/.local/share/Steam/userdata/<steam-id>/892970/characters|
+|Legacy Save|/home/steam/.config/unity3d/IronGate/Valheim/characters|
