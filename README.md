@@ -7,4 +7,5 @@ Currently just raw code, no UI
 
 ### dependencies
 - https://github.com/hannesdelbeke/valheim-character-editor-python
-- [bardapi](https://github.com/dsdanielpark/Bard-API)
+- [bardapi](https://github.com/dsdanielpark/Bard-API) (contains instructions on how to get a token)
+- a Google account with access to [bard.google.com](https://bard.google.com/)
