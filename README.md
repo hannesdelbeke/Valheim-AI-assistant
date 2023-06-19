@@ -35,5 +35,6 @@ Ultimately, the best thing to craft next depends on your playstyle and what you'
 ...
 Process finished with exit code 0  
 ```
+⚠️ stone axe isn't better than flint, so you can't trust it to be always correct 
 
 
